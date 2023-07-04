@@ -1,5 +1,8 @@
 # Mutliclass-CNN-TSNE
-Multi-class Classification using Deep Learning &amp; visualisations via 2D down-projection
+
+Multi-class Classification using Deep Learning &amp; visualisations via 2D down-projection on the Kaggle Animals-10 Dataset:
+
+https://www.kaggle.com/datasets/alessiocorrado99/animals10
 
 Convolutional Neural Network & Autoencoder Training with projection of latent spaces into 2D planes
 
